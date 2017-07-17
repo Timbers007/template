@@ -3,11 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-<<<<<<< HEAD
-Welcome to Tim's Mod official Documentation!
-=======
 Welcome to the Official Tim's Mod API Page
->>>>>>> c5ba2e75c654f5ec548d29269f16a8f75ea7b602
 ==================================================
 
 This page will show you how to edit Tim's Mod to your liking!
